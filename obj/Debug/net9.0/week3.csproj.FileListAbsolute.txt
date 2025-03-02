@@ -2,3 +2,13 @@ D:\ucol Y2\week3\obj\Debug\net9.0\week3.GeneratedMSBuildEditorConfig.editorconfi
 D:\ucol Y2\week3\obj\Debug\net9.0\week3.AssemblyInfoInputs.cache
 D:\ucol Y2\week3\obj\Debug\net9.0\week3.AssemblyInfo.cs
 D:\ucol Y2\week3\obj\Debug\net9.0\week3.csproj.CoreCompileInputs.cache
+D:\ucol Y2\week3\bin\Debug\net9.0\week3.exe
+D:\ucol Y2\week3\bin\Debug\net9.0\week3.deps.json
+D:\ucol Y2\week3\bin\Debug\net9.0\week3.runtimeconfig.json
+D:\ucol Y2\week3\bin\Debug\net9.0\week3.dll
+D:\ucol Y2\week3\bin\Debug\net9.0\week3.pdb
+D:\ucol Y2\week3\obj\Debug\net9.0\week3.dll
+D:\ucol Y2\week3\obj\Debug\net9.0\refint\week3.dll
+D:\ucol Y2\week3\obj\Debug\net9.0\week3.pdb
+D:\ucol Y2\week3\obj\Debug\net9.0\week3.genruntimeconfig.cache
+D:\ucol Y2\week3\obj\Debug\net9.0\ref\week3.dll
